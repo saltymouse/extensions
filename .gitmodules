@@ -3558,6 +3558,10 @@
 	path = extensions/sourcepawn
 	url = https://github.com/tsuza/zed-sourcepawn-ext.git
 
+[submodule "extensions/spaceduck-theme"]
+	path = extensions/spaceduck-theme
+	url = https://github.com/saltymouse/zed-spaceduck
+
 [submodule "extensions/spai-zero-theme"]
 	path = extensions/spai-zero-theme
 	url = https://github.com/BasaiCorp/zed-spai-zero-theme.git
@@ -4449,6 +4453,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/spaceduck-theme"]
-	path = extensions/spaceduck-theme
-	url = https://github.com/saltymouse/zed-spaceduck
