@@ -3607,6 +3607,10 @@ version = "0.1.1"
 submodule = "extensions/sourcepawn"
 version = "0.0.1"
 
+[spaceduck-theme]
+submodule = "extensions/spaceduck-theme"
+version = "1.0.0"
+
 [spai-zero-theme]
 submodule = "extensions/spai-zero-theme"
 version = "0.2.1"
